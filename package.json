@@ -1,6 +1,6 @@
 {
   "name": "@tomiaa/hitokoto",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "private": false,
   "description": "hitokoto 一言的无依赖 JS 库",
   "main": "lib/index.js",
